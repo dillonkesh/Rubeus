@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Rubeus</RootNamespace>
     <AssemblyName>Rubeus</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
     <PublishUrl>publish\</PublishUrl>
@@ -282,8 +282,10 @@
     <Folder Include="Versions\.NET 4.6\x64\Release\" />
     <Folder Include="Versions\.NET 4.6\x86\Debug\" />
     <Folder Include="Versions\.NET 4.6\x86\Release\" />
-    <Folder Include="Versions\.NET 4.7.2\x64\" />
-    <Folder Include="Versions\.NET 4.7.2\x86\" />
+    <Folder Include="Versions\.NET 4.7.2\x64\Debug\" />
+    <Folder Include="Versions\.NET 4.7.2\x64\Release\" />
+    <Folder Include="Versions\.NET 4.7.2\x86\Debug\" />
+    <Folder Include="Versions\.NET 4.7.2\x86\Release\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
